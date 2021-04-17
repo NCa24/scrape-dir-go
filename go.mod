@@ -1,3 +1,3 @@
-module github.com/scrape-directory
+module github.com/NCa24/scrape-dir-go
 
 go 1.14
